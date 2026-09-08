@@ -1,5 +1,5 @@
-pizzas = ["calabresa","carne de sol","Frango com catupiry"]
-precos= [30.00,40.00,30.00]
+pizzas = ["calabresa","carne de sol","Frango com catupiry","Frango"]
+precos= [30.00,40.00,30.00,29.90]
 print("---- Menu ----")
 print("---- Cardapio ----")
 
